@@ -4,7 +4,7 @@ Natural Language Processing is a Master's course taught at AUEB. During my final
 we decided since I was intrigued by the topic, I should take the course unofficially. These are the group projects that are required by the
 course. I had to do them individually since I wasn't officially a student of the program. The students had to choose either Sentiment
 Analysis or Part of Speech Tagging and implement their choice with:
-1. Logistic Regression, KNN  **only for those who chose Sentiment Analysis**
+1. Logistic Regression, KNN  *only for those who chose Sentiment Analysis*
 2. MLP
 3. RNN
 4. CNN
